@@ -10,4 +10,4 @@ pip install request
 
 ## Usage
 
-Just run with python3 as python cf.py and there will be several file created.(div1, div2, div3, div4 and education's with the details.)
+Just run with python3 as python cf.exe and there will be several file created.(div1, div2, div3, div4 and education's with the details.)
