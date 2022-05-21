@@ -1,5 +1,5 @@
 It is a python program that finds the contest by there tag.
-Right now I'm filtering only Educational Rounds and Div. 3.
+Right now I'm filtering only Educational Rounds and Div. 1, 2, 3 and 4.
 
 ## Installation
 
@@ -11,4 +11,4 @@ pip install request
 
 ## Usage
 
-Just run with python3 as python cf.py and there will be two file created.(div3 and education's with the details.)
+Just run with python3 as python cf.py and there will be two file created.(div1, div2, div3, div 4 and education's with the details.)
